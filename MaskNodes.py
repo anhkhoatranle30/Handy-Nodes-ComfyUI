@@ -68,9 +68,6 @@ class CustomSaveImage:
             counter += 1
 
         return { "ui": { "images": results } }
-    
-
-
 
 NODE_CLASS_MAPPINGS = {
     "Custom Save Image": CustomSaveImage,
