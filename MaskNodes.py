@@ -70,9 +70,9 @@ class CustomSaveImage:
         return { "ui": { "images": results } }
 
 NODE_CLASS_MAPPINGS = {
-    "Custom Save Image": CustomSaveImage,
+    "Custom Save Image //Handy": CustomSaveImage,
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "Custom Save Image": "Custom Save Image",
+    "Custom Save Image //Handy": "Custom Save Image (Handy)",
 }
