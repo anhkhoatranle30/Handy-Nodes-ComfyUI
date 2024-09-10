@@ -10,6 +10,6 @@ Repository = "https://github.com/anhkhoatranle30/Handy-Nodes-ComfyUI"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "anhkhoatranle30"
 DisplayName = "Handy-Nodes-ComfyUI"
 Icon = ""
